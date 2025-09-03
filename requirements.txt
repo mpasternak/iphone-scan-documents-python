@@ -1,0 +1,15 @@
+# iPhone Document Scanner Requirements
+# =====================================
+# This script uses PyObjC to interface with macOS native APIs
+# for accessing Continuity Camera functionality
+
+# PyObjC - Python to Objective-C bridge for macOS
+# Provides access to Apple's Cocoa frameworks
+pyobjc-core>=10.0
+pyobjc-framework-Cocoa>=10.0
+pyobjc-framework-Quartz>=10.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment if you want to use additional image processing features:
+# Pillow>=10.0.0  # For advanced image manipulation
+# pypdf>=3.17.0   # For advanced PDF operations
