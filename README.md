@@ -202,6 +202,7 @@ MIT License - See LICENSE file for details
 - Built with PyObjC, the Python-Objective-C bridge
 - Uses macOS Continuity Camera feature
 - Inspired by the need for a simple, educational document scanning solution
+- Special thanks to [Thomas Zoechling](https://thomas.zoechling.me/) for his excellent article on Continuity Camera ([original](https://thomas.zoechling.me/journal/2018/10/Continuity.html) | [archived](https://web.archive.org/web/20241201000000*/https://thomas.zoechling.me/journal/2018/10/Continuity.html)) which provided valuable insights into how this feature works
 
 ## 📮 Support
 
